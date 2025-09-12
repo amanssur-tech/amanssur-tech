@@ -1,30 +1,30 @@
 # 👋 Welcome! I'm Amanullah Manssur
 
-**IT Consultant · Solutions Architect in training · Builder of meaningful digital tools**
+**IT Solutions Consultant · Cloud & Automation Enthusiast · Builder of Scalable Systems**
 
 ---
 
 ### 💡 About Me
 
-I'm passionate about creating clean, practical, and scalable digital solutions. My journey began in web and cloud technologies, and I'm now sharpening my skills in automation, system design, and information security to transition into high-level consulting roles.
+I design and deliver practical, scalable digital solutions — from web and cloud to automation and system design. My focus is making technology more human-friendly, reliable, and useful in real-world settings.  
 
-- 🧠 Always learning — currently studying advanced Java, networking, and systems architecture
-- 🛠️ Building tools that solve real problems and cut the noise
+- 🧠 Always learning — currently diving deeper into Java, networking, and systems architecture  
+- 🛠️ Passionate about building tools that solve problems and reduce noise  
 
 ---
 
 ### 🧰 Technical Focus
 
-- **IT Support & Consulting:** Web, Cloud, Linux, CLI
-- **Automation & Workflow Design:** No-code/low-code, integration platforms
-- **Data & Systems:** SQL · Looker Studio · Networking Fundamentals
-- **Languages & Tools:** Bash · HTML/CSS · Git · Jira · WordPress · Inkscape · IntelliJ · Visual Studio Code
+- **Consulting & Support**: IT Service Management · SaaS · Cloud · Linux  
+- **Automation & Integration**: Workflow Design · Zapier · Make · API Integrations  
+- **Data & Systems**: SQL · Systems Analysis · Networking Fundamentals  
+- **Languages & Tools**: Java · Bash · Git · Jira · WordPress · IntelliJ · VS Code  
 
 ---
 
-### 🛠️ Active Projects
+### 🛠️ Featured Projects
 
-Check out my pinned repos for:
+Check out my pinned repos for:  
 
 - **CLI Quick Reference** — Bash/Linux cheat sheet for daily terminal use  
 - **Portfolio Template** — Simple, mobile-friendly website starter (coming soon)  
@@ -34,7 +34,11 @@ Check out my pinned repos for:
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amanssur) — for work & professional inquiries
+- 💼 [LinkedIn](https://www.linkedin.com/in/amanssur) — work & professional inquiries  
 - 🌐 [amanssur.com](https://www.amanssur.com) — my digital home  
-- 🌐 [manssurmedia.com](https://www.manssurmedia.com) — my webdesign services  
-- 📨 Reach out via GitHub Issues or contact forms
+- 🌐 [manssurmedia.com](https://www.manssurmedia.com) — my web services  
+- 📨 Reach out via GitHub Issues or contact forms  
+
+---
+
+✨ Always open to collaboration on automation, SaaS, and cloud projects.
