@@ -34,9 +34,9 @@ Check out my pinned repos for:
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amanssur) — work & professional inquiries  
-- 🌐 [amanssur.com](https://www.amanssur.com) — my digital home  
-- 🌐 [manssurmedia.com](https://www.manssurmedia.com) — my web services  
+- 💼 [LinkedIn](https://linkedin.com/in/amanssur) — work & professional inquiries  
+- 🌐 [amanssur.com](https://amanssur.com) — my digital home  
+- 🌐 [manssurmedia.com](https://manssurmedia.com) — my web services  
 - 📨 Reach out via GitHub Issues or contact forms  
 
 ---
