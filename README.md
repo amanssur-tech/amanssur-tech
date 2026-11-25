@@ -34,9 +34,8 @@ Explore my [portfolio](https://amanssur.com) for detailed case studies, technica
 
 ### Let's Connect
 
-- [Portfolio & CV](https://amanssur.com)
+- [Portfolio & Contact](https://amanssur.com)
 - [LinkedIn](https://www.linkedin.com/in/amanssur)
 - [Manssur Media](https://www.manssurmedia.com)
-- [Email](mailto:hi@amanssur.com)
 
 **Practical Solutions · Scalable Systems · Tangible Results**
