@@ -1,44 +1,42 @@
-# 👋 Welcome! I'm Amanullah Manssur
+# 👋 Hi, I'm Amanullah Manssur
 
-**IT Solutions Consultant · Cloud & Automation Enthusiast · Builder of Scalable Systems**
-
----
-
-### 💡 About Me
-
-I design and deliver practical, scalable digital solutions — from web and cloud to automation and system design. My focus is making technology more human-friendly, reliable, and useful in real-world settings.  
-
-- 🧠 Always learning — currently diving deeper into Java, networking, and systems architecture  
-- 🛠️ Passionate about building tools that solve problems and reduce noise  
+**Solutions Engineer | Enterprise SaaS, Data & Technical Pre-Sales**
 
 ---
 
-### 🧰 Technical Focus
+### About Me
 
-- **Consulting & Support**: IT Service Management · SaaS · Cloud · Linux  
-- **Automation & Integration**: Workflow Design · Zapier · Make · API Integrations  
-- **Data & Systems**: SQL · Systems Analysis · Networking Fundamentals  
-- **Languages & Tools**: Java · Bash · Git · Jira · WordPress · IntelliJ · VS Code  
+I combine technical consulting and hands-on engineering to turn business requirements into practical, scalable solutions. My work spans software development, systems integration, data workflows and automation.
 
----
-
-### 🛠️ Featured Projects
-
-Check out my pinned repos for:  
-
-- **CLI Quick Reference** — Bash/Linux cheat sheet for daily terminal use  
-- **Portfolio Template** — Simple, mobile-friendly website starter (coming soon)  
-- **Automation Showcase** — Examples of Zapier/Make automations (coming soon)
+I currently work as a Technical Consultant at Commanders Act, delivering enterprise SaaS solutions for clients across Europe.
 
 ---
 
-### 📫 Let's Connect
+### Technical Focus
 
-- 💼 [LinkedIn](https://linkedin.com/in/amanssur) — work & professional inquiries  
-- 🌐 [amanssur.com](https://amanssur.com) — my digital home  
-- 🌐 [manssurmedia.com](https://manssurmedia.com) — my web services  
-- 📨 Reach out via GitHub Issues or contact forms  
+- **Software Development:** Python · JavaScript · TypeScript · Java · React · Next.js
+- **Systems Integration:** REST APIs · Webhooks · Enterprise SaaS
+- **Automation & AI:** n8n · Workflow Automation · LLM APIs · MCP
+- **Data & Analytics:** SQL · Data Workflows · Server-Side Tracking · Data Visualization
+- **Infrastructure & Tooling:** Docker · Linux · Git
 
 ---
 
-✨ Always open to collaboration on automation, SaaS, and cloud projects.
+### Featured Projects
+
+- **Case Intake and Routing Automation:** Automated case processing and routing using n8n, Docker and integrated business logic.
+- **Tree Markdown Parser:** Extensible Markdown tooling for parsing and rendering hierarchical tree structures.
+- **D3 Visualizations Dashboard:** Interactive data visualizations built with D3.js, React and TypeScript.
+
+Explore my [portfolio](https://amanssur.com) for detailed case studies, technical decisions and implementation results.
+
+---
+
+### Let's Connect
+
+- [Portfolio & CV](https://amanssur.com)
+- [LinkedIn](https://www.linkedin.com/in/amanssur)
+- [Manssur Media](https://www.manssurmedia.com)
+- [Email](mailto:hi@amanssur.com)
+
+**Practical Solutions · Scalable Systems · Tangible Results**
